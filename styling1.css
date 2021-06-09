@@ -1,0 +1,38 @@
+#bioImage {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  height: 150px;
+  width: 150px;
+}
+
+
+#bioImage2 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  height: 700px;
+  width: 900px;
+}
+
+#title {
+  font-size: 100px;
+  font-weight: 200;
+  color: #6642f5;
+
+}
+
+#title2 {
+  font-size: 100px;
+  font-weight: 200;
+  color: #312759;
+
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: 100;
+  color: #861BBF;
+  text-decoration: none;
+}
+
